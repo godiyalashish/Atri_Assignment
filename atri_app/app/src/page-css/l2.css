@@ -1,0 +1,338 @@
+.p-l2.Flex224 {
+display: flex;
+}
+.p-l2.Flex225 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+row-gap: 20px;
+width: 50%;
+padding-top: 100px;
+padding-left: 150px;
+padding-bottom: 100px;
+}
+.p-l2.Flex238 {
+display: flex;
+column-gap: 20px;
+width: 350px;
+font-family: DM Sans;
+font-weight: 400;
+}
+.p-l2.Flex239 {
+display: flex;
+column-gap: 20px;
+width: 350px;
+font-family: DM Sans;
+font-weight: 400;
+}
+.p-l2.Flex240 {
+display: flex;
+column-gap: 20px;
+width: 350px;
+font-family: DM Sans;
+font-weight: 400;
+}
+.p-l2.Flex226 {
+display: flex;
+align-items: flex-start;
+background-color: #FF7629;
+width: 50%;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.p-l2.Flex237 {
+display: flex;
+flex-direction: column;
+row-gap: 30px;
+font-family: DM Sans;
+font-weight: 400;
+font-size: 18px;
+position: relative;
+border-radius: 40px;
+border-color: #d9d4d4;
+padding-top: 80px;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 30px;
+border-style: solid;
+right: 140px;
+left: -140px;
+background-color: #ffffff;
+align-items: stretch;
+justify-content: flex-start;
+}
+.p-l2.Flex233 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-l2.Flex234 {
+display: flex;
+column-gap: 20px;
+font-size: 18px;
+font-family: DM Sans;
+font-weight: 400;
+}
+.p-l2.Flex227 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-l2.Flex228 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-l2.Flex235 {
+display: flex;
+column-gap: 20px;
+font-size: 18px;
+font-family: DM Sans;
+font-weight: 400;
+}
+.p-l2.Flex229 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-l2.Flex230 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-l2.Flex236 {
+display: flex;
+column-gap: 20px;
+font-size: 18px;
+font-family: DM Sans;
+font-weight: 400;
+}
+.p-l2.Flex231 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-l2.Flex232 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-l2.TextBox225 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 34px;
+}
+.p-l2.TextBox226 {
+width: 50%;
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+color: #727171;
+}
+.p-l2.TextBox227 {
+width: 50%;
+font-family: DM Sans;
+font-weight: 400;
+color: #8d8d8d;
+}
+.p-l2.Image89 {
+;
+}
+.p-l2.Image90 {
+;
+}
+.p-l2.TextBox228 {
+width: 50%;
+font-family: DM Sans;
+font-weight: 400;
+color: #8d8d8d;
+}
+.p-l2.Image91 {
+;
+}
+.p-l2.TextBox229 {
+width: 50%;
+font-family: DM Sans;
+font-weight: 400;
+color: #8d8d8d;
+}
+.p-l2.Button32 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+align-self: center;
+font-family: DM Sans;
+width: 40%;
+}
+.p-l2.TextBox224 {
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+}
+.p-l2.Input21 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+font-family: DM Sans;
+height: 180px;
+align-self: auto;
+text-align: center;
+}
+.p-l2.TextBox218 {
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+}
+.p-l2.Input15 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-l2.Input16 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-l2.TextBox219 {
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+}
+.p-l2.TextBox220 {
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+}
+.p-l2.Input17 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-l2.Input18 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-l2.TextBox221 {
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+}
+.p-l2.TextBox222 {
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+}
+.p-l2.Input19 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-l2.Input20 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-l2.TextBox223 {
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+}
